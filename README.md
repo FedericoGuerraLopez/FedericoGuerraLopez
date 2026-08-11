@@ -1,4 +1,4 @@
-# Federico Guerra López
+# Federico Joaquín Guerra López
  
 Estudiante de Ingeniería en Sistemas en Universidad ORT Uruguay, cursando el 8.° semestre, convencido de que el buen software no es solo el que funciona sino el que resuelve algo real y está construido con criterio. A lo largo de la carrera trabajé en proyectos de desarrollo full stack, ecosistema de datos e inteligencia artificial. Busco mi primera experiencia profesional en alguna de estas áreas donde pueda aportar valor desde el primer día y seguir creciendo.
  
@@ -28,7 +28,7 @@ Estudiante de Ingeniería en Sistemas en Universidad ORT Uruguay, cursando el 8.
  
 | Repositorio | Descripción | Stack |
 |---|---|---|
-| [ObligatorioTallerDeTecnologias2-IA](https://github.com/FedericoGuerraLopez/ObligatorioTallerDeTecnologias2-IA) | Agentic RAG Chatbot con arquitectura multi-agente: agente supervisor, agente de memoria y agente de investigación. Búsqueda semántica con embeddings, bases de datos vectoriales y tool calling con LLMs. | Python · LangChain · LangGraph · Pinecone |
+| [ObligatorioTallerDeTecnologias2-IA](https://github.com/FedericoGuerraLopez/ObligatorioTallerDeTecnologias2-IA) | Agentic RAG Chatbot con un agente ReAct implementado manualmente sobre LangGraph. Búsqueda semántica con embeddings sobre bases de datos vectoriales en Pinecone y tool calling con LLMs. | Python · LangChain · LangGraph · Pinecone |
 | [302098-308031-OBL-IA](https://github.com/FedericoGuerraLopez/302098-308031-OBL-IA) | Implementación de algoritmos de búsqueda adversarial (Minimax con poda Alpha-Beta, Expectimax) para un juego de dos jugadores, y agentes de aprendizaje por refuerzo (Q-Learning, Dyna-Q) sobre entornos de control continuo con Gymnasium. | Python · Gymnasium · NumPy · Matplotlib |
  
 ---
